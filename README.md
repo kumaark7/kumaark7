@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @kumaark7
-- 👀 I’m interested in Cyber security,Developing project,software
-- 🌱 I’m currently learning basic programing language
-- 💞️ I’m looking to collaborate on any developer. 
+# Hi, I'm Kishore Kumaar 👋
 
-<!---
-kumaark7/kumaark7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Software Test Engineer**
+
+## 🔧 Tech Stack & Skills
+
+| Area | Tools & Technologies |
+|------|----------------------|
+| Automation | Selenium WebDriver (Java), UFT (VBScript), VBA |
+| Manual Testing | Test Case Design, End-to-End Testing, Regression Testing |
+| API & Data | Postman, XML Validation, SQL |
+| Monitoring | Splunk, P2/P3 Incident Management |
+| Methodology | Agile Scrum, SDLC, STLC |
+| Other | CI/CD, Keyword-Driven Testing |
+
+## 📬 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-kumaarkishore11@gmail.com-blue?style=flat&logo=gmail)](mailto:kumaarkishore11@gmail.com)  
+Chennai
