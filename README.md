@@ -187,7 +187,7 @@ I work with Linux servers and self-hosted applications, including:
 
 📍 Chennai, India
 
-📧 **Email:** your-email@example.com
+📧 **Email:** kumaarkishore11@gmail.com
 
 ---
 
